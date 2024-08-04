@@ -1,0 +1,486 @@
+@font-face{
+    font-family: "Anton", "sans-serif";
+  font-style: normal;
+  src: url("../fonts/Anton/Anton-Regular.ttf");
+}
+
+
+
+*{
+    margin: 0px ;
+    padding: 0px;
+}
+html,body{
+    min-width: 100%;
+    overflow-x: hidden;
+}
+header{
+    background-image: url(../image/background/header-bg\ .png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    width:100%;
+    height:90px;
+  
+    
+   
+}
+.list{
+    display: none;
+}
+.yoga-bg{
+    text-align: center;
+    
+}
+.sec2-para{
+    color: #9482AC;
+    margin-top: 40px;
+}
+
+/* ********************************** */
+.main-bg{
+    background-image: url("../image/background/hero-slider-3.jpg");
+    width: 100%;
+     height: 850px;
+     background-position: center center;
+    background-size: cover;
+
+
+}
+.main-p{
+    padding-top: 300px;
+    text-align: center;
+    font-size: 40px;
+}
+.main-parent-head{
+    text-align: center;
+    color: white;
+}
+.button1{
+    background-color: #9482AC;
+    color: white;
+    border-radius: 30px 30px 30px 30px;
+    font-weight: 400;
+    width:200px;
+    height: 50px;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+   
+}
+.button1:hover{
+    background-color: #9482AC;
+    color: white;
+    outline: #9482AC;
+}
+.line{
+    color: #9482AC;
+    font-weight: 800;
+   
+}
+.line2{
+    padding-top: 40px;
+    color: #9482AC;
+    font-weight: 800;
+  
+}
+/* ***********************************end of main section*************************************** */
+.header-sec1{
+    text-align: center;
+    margin-top: 40px;
+}
+.sec-one-parent{
+    text-align: center;
+ 
+}
+.main-para-1{
+    color: #9482AC;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+   
+    
+}
+.sec1-img-para1{
+    color: gray;
+    font-size: 20px;
+}
+.sec1-img-para2{
+    color: gray;
+    font-size: 20px;
+}
+.sec1-img-para3{
+    color: gray;
+    font-size: 20px;
+}
+
+/* **************************************** */
+.section2{
+    margin-top: 80px;
+    padding-top: 20px;
+    
+}
+.child-section2{
+    border: 1px inset beige;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+    bottom: 40px;
+    overflow: hidden;  
+}
+.yoga1{
+    width: 300px;
+    object-fit:contain;
+  
+   
+    
+
+}
+.sec2-border{
+    
+    /* border-top: 2px solid #9482AC;
+    border-bottom: 2px solid #9482AC; */
+    width: 50%;
+    margin: 0 auto;
+    color: #9482AC;
+    font-weight: bold;
+   
+}
+.sec2-head1{
+    font-weight: bold;
+}
+/*  */
+.child1-section2{
+    border: 1px inset rgb(220, 214, 214);
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+    bottom: 30px;
+    overflow: hidden;
+    margin-top: 20px;
+    box-shadow: 10px 5px 5px 5px #f4f1f6;
+  
+}
+
+.yoga2{
+    width: 300px;
+    object-fit: contain;
+   
+    
+
+}
+.sec2-para{
+    width: 50%;
+    margin: 0 auto;
+    color: #9482AC;
+    font-weight: bold;
+    /* margin-top: 50px; */
+   
+}
+.sec2-para2{
+    width: 50%;
+    margin: 0 auto;
+    color: #9482AC;
+    font-weight: bold;
+   
+}
+.sec2-head2{
+    font-weight: bold;
+}
+.sec2-para3{
+    width: 50%;
+    margin: 0 auto;
+    color: #9482AC;
+    font-weight: bold;
+   
+}
+.sec2-head3{
+    font-weight: bold;
+}
+.yoga3{
+    width: 300px;
+    object-fit: contain;
+   
+    
+
+}
+
+
+.yoga-bg{
+    background-image: url("../image/background/yoga-bg.jpg");
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-position:center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ flex-direction: column;
+}
+.child2-section2{
+    border: 1px inset rgb(231, 225, 225);
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 20px;
+    box-shadow: 10px 5px 5px 5px #f4f1f6;
+      
+    }
+  
+
+
+
+
+
+
+
+
+/* ***************************************end of section-one****************************************************************** */
+.section3{
+    margin-top: 90px;
+}
+.sec3-child-two{
+    margin-top: 80px;
+    text-align: center;
+   
+}
+.sec3-para{
+    width: 50%;
+    margin: 0 auto;
+    color: #9482AC;
+    font-weight: bold;
+}
+.sec3-head{
+   font-weight: bold; 
+   font-size: 40px;
+}
+.sec3-para2{
+    color: gray;
+}
+.cli-name{
+    color: #9482AC;
+    font-weight: bold;
+    font-size: 20px;
+}
+.client-name{
+    color: #FFDFAB;
+    font-weight: bold;
+
+}
+
+
+
+
+
+/* *************************************************************** */
+.callto-sec4{
+    background-image: url("../image/background/callto-bg.jpg");
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    /* background-position:center center; */
+    /* background-repeat: repeat; */
+}
+.section4{
+    margin-top: 40px;
+}
+.sec4-h2{
+    text-align: center;
+    padding-top: 80px;
+    color: white;
+}
+.sec4-button{
+background-color: #fdd89e;
+border-radius: 40px 40px 40px 40px;
+margin-top: 20px;
+color: white;
+font-weight: 600;
+width:200px;
+height: 50px;
+font-size: 20px;
+text-decoration: none;
+text-align: center;
+
+
+}
+
+.sec4-button:hover{
+    background-color: #9482AC;
+    color: white;
+    outline: #9482AC;
+}
+/*  */
+.section5{
+    margin-top: 40px;
+}
+/* **************************************************** */
+.footer-img{
+    background-image: url(../image/background/footer-bg.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 980px;
+    background-position: center;
+}
+.input1{
+   border-bottom: 2px solid white;
+  background-color: transparent;
+  /* border: none; */
+  color: #f4f1f6;
+border-top: 0;
+border-left: 0;
+border-right: 0;
+text-align: center;
+margin-top: 40px;
+font-size: 20px;
+
+  
+}
+.footer-form{
+    background-color: #9482AC;
+    color: white;
+    text-align: center;
+    /* height: 200px; */
+    position: relative;
+    bottom: 200px;
+}
+.msg-footer{
+    margin-top: 40px;
+}
+.foot-button{
+    background-color: #FFDFAB;
+    width: 200px;
+    border: 1px solid bisque;
+    border-radius: 40px 40px 40px 40px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: white;
+}
+.foot-button:hover{
+  background-color: white;
+  color: #9482AC;
+
+}
+.para-footer{
+    color: gray;
+    font-size: 20px;
+}
+.para-footer1{
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:768px){
+    .sec-one-parent{
+       display: flex;
+       gap: 80px;
+      
+    }
+    .parent-section2{
+        display: flex;
+    }
+    .child-section2{
+        width: 50%;
+    }
+    .child1-section2{
+    width:50%;
+    position: relative;
+    bottom: 60px;
+    }
+    .child2-section2{
+        width: 50%;
+        position: relative;
+    bottom: 60px;
+    
+    }
+    .yoga1{
+        width: 100%;
+    }
+    .yoga2{
+        width: 100%;
+    }
+    .yoga3{
+        width: 100%;
+    }
+    .section5{
+     padding-top: 20px;
+    }
+    .map{
+       margin: 0 auto;
+    }
+    .footer-form{
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:992px){
+  
+    .list{
+        display: flex;
+        justify-content: center;
+        justify-content: space-evenly;
+        font-size: 20px;
+        margin-top: 10px;
+        gap: 20px;
+    }
+    .map{
+       width: 100%;
+    }
+    .sec-one-parent{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+   .sec3-child-two{
+   margin-bottom: 50px;
+   }
+}
